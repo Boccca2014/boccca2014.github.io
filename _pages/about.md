@@ -20,5 +20,5 @@ I'm also a [CIRCUIT Research Fellow](https://www.jhuapl.edu/circuit/){:style="te
 
 Refer to my LinkedIn Profile for all my latest academic & professional pursuits! If you have any
 general inquiries, interested in open source projects, would like to connect, feel free to reach me
-at my email address, sebastiancabrejos2020@gmail.com, or 
+at my email address (on the left panel) or 
 [LinkedIn](https://www.linkedin.com/in/sebastian-c2022){:style="text-decoration: none"}{:target="_blank"}. Thanks!
