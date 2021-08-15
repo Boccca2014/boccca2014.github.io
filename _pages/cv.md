@@ -13,7 +13,9 @@ Resume
 ======
 <iframe 
   src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf" 
-  title="My Resume">
+  title="My Resume" 
+  width="100%"
+  >
 </iframe>
 
 LinkedIn
