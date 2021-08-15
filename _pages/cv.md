@@ -21,7 +21,8 @@ Resume
 
 LinkedIn
 ======
-* [LinkedIn](https://www.linkedin.com/in/sebastian-c2022/){:style="text-decoration: none"}{:target="_blank"}
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge">Sebastian Cabrejos</a></div>
+              
 
 <!-- Education
 ======
