@@ -6,10 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior pursuing a [Bachelor of Science in Computer Science](https://www.cs.jhu.edu/){:style="text-decoration: none"}{:target="_blank"}
+I'm a senior pursuing a [Bachelor of Science in Computer Science](https://www.cs.jhu.edu/){:style="text-decoration: none"}{:target="_blank"}
 at [Johns Hopkins University](https://www.jhu.edu){:style="text-decoration: none"}{:target="_blank"}.
 
-I'm currently the head of [Semester.ly](https://www.semester.ly){:style="text-decoration: none"}{:target="_blank"},
+I'm currently the head (CEO + Software Developer) of [Semester.ly](https://www.semester.ly){:style="text-decoration: none"}{:target="_blank"},
 a student-run open source project at Johns Hopkins University, supported by several notable faculty members
 and administrators.
 
